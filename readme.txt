@@ -1,0 +1,1 @@
+Using the Naïve Bayes classifier as the base algorithm, and utilizing Python’s NLTK and SentiWordNet libraries, tweets were cleaned into readable text and passed through a TFIDVectorizer-MultinomialNB pipeline to determine if the tweet is Positive, Negative or Neutral
